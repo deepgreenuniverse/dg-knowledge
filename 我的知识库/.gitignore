@@ -1,0 +1,15 @@
+# Obsidian 系统文件
+.obsidian/
+.trash/
+*.vault
+
+# macOS
+.DS_Store
+
+# 同步冲突副本
+*_conflict*
+*_backup*
+
+# 临时文件
+*.tmp
+*.log
